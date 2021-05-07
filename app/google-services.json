@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "26250447262",
+    "firebase_url": "https://machine-test-brain-inventory-default-rtdb.firebaseio.com",
+    "project_id": "machine-test-brain-inventory",
+    "storage_bucket": "machine-test-brain-inventory.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26250447262:android:2c4cc0c621ce75c5b46e8f",
+        "android_client_info": {
+          "package_name": "com.bi.machinetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26250447262-n9t89uirkfl3ukv0ds4hhgb7h99np71e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRuZ-HxYwk2iw7hl7JMgceSYYDRus1hQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26250447262-n9t89uirkfl3ukv0ds4hhgb7h99np71e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26250447262:android:ba8627b03a320e8cb46e8f",
+        "android_client_info": {
+          "package_name": "com.canopus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26250447262-n9t89uirkfl3ukv0ds4hhgb7h99np71e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRuZ-HxYwk2iw7hl7JMgceSYYDRus1hQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26250447262-n9t89uirkfl3ukv0ds4hhgb7h99np71e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26250447262:android:e67d0cc9e0b87736b46e8f",
+        "android_client_info": {
+          "package_name": "com.programmics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26250447262-n9t89uirkfl3ukv0ds4hhgb7h99np71e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRuZ-HxYwk2iw7hl7JMgceSYYDRus1hQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26250447262-n9t89uirkfl3ukv0ds4hhgb7h99np71e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

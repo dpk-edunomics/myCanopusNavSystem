@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Canopus</string>
+    <string name="start">Start</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAp1ZKZevC_88ONPb4ggUG9RnKyEtP7TQI</string>
+</resources>
